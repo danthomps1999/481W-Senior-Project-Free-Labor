@@ -10,6 +10,6 @@ Daniel Thompson
 
 Kevin Hammermeister
 
-Solomon
+Solomon Hatchett
 
 Todd Shmayda
