@@ -10,6 +10,10 @@ We are creating a brick palette analyzer tool for https://brickmaniac.com/
 
 ### Kevin Hammermeister
 
+### Nick Garska
+
+after early collage im now finishing what I started hopefuly this semester I enjoy backend programing, algorithms and have an intresset in AI
+
 ### [Solomon Hatchett](https://github.com/SoloTHatt)
 
 This will most likely be my last year at Eastern Michigan University. I transferred here from Monroe Community College and and proficient in C sharp, C++ and Java. My hobbies including video games, TV and coding for fun.
