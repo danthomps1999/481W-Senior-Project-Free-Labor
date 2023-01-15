@@ -6,11 +6,11 @@ We are creating a brick palette analyzer tool for https://brickmaniac.com/
 
 # Team Members:
 
-### Daniel Thompson
+### [Daniel Thompson](https://github.com/danthomps1999)
 
 ### Kevin Hammermeister
 
-### Solomon Hatchett: 
+### [Solomon Hatchett](https://github.com/SoloTHatt)
 
 This will most likely be my last year at Eastern Michigan University. I transferred here from Monroe Community College and and proficient in C sharp, C++ and Java. My hobbies including video games, TV and coding for fun.
 
