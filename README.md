@@ -7,6 +7,7 @@ We are creating a brick palette analyzer tool for https://brickmaniac.com/
 # Team Members:
 
 ### [Daniel Thompson](https://github.com/danthomps1999)
+Senior in final semester (LORD willing). Working as an Associate Software Developer at Auto-Owners Insurance in HR-Systems.
 
 ### Kevin Hammermeister
 
