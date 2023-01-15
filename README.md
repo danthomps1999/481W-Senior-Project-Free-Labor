@@ -11,6 +11,7 @@ Daniel Thompson
 Kevin Hammermeister
 
 Solomon Hatchett: 
+
 This will most likely be my last year at Eastern Michigan University. I transferred here from Monroe Community College and and proficient in C sharp, C++ and Java. My hobbies including video games, TV and coding for fun.
 
 Todd Shmayda
