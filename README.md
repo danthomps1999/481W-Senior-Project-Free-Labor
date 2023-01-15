@@ -14,7 +14,7 @@ Senior in final semester (LORD willing). Working as an Associate Software Develo
 
 ### Kevin Hammermeister
 
-### Nick Garska
+### [Nick Garska](https://github.com/Nick-Garska)
 
 after early collage im now finishing what I started hopefuly this semester I enjoy backend programing, algorithms and have an intresset in AI
 
