@@ -18,3 +18,5 @@ This will most likely be my last year at Eastern Michigan University. I transfer
 
 This is my last semester at Eastern Michigan. I've used many languages during my time here, but I have grown accustom to using C languages and Java/Java Script.
 Other than that, I love to Cook, Garden, Hike/Camp, Computer Game, as well as playing Tabletop games.
+
+### [Jacob Eisenstein] https://github.com/jeisenst
