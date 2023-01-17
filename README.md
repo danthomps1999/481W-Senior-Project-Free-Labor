@@ -12,7 +12,7 @@ We are creating a brick palette analyzer tool for https://brickmaniac.com/
 ### [Daniel Thompson](https://github.com/danthomps1999)
 Senior in final semester (LORD willing). Working as an Associate Software Developer at Auto-Owners Insurance in HR-Systems.
 
-### Kevin Hammermeister(https://github.com/khammerm)
+### [Kevin Hammermeister](https://github.com/khammerm)
 I am currently finishing my last semester at Eastern Michigan pursuing a degree in Computer Science. During my education I have become proficent in many languages, such as Java, C, Python, and Assembly/Machine languages.
 
 ### [Nick Garska](https://github.com/Nick-Garska)
